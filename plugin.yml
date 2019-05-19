@@ -1,0 +1,9 @@
+name: SkyWars
+main: SkyWars\SWmain
+api: [3.0.0, 4.0.0]
+version: 1.0
+author: BayAlper10
+
+commands:
+  sw:
+    description: SkyWars Komutları

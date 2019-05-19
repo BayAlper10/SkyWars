@@ -7,6 +7,7 @@
 -> Top 10 winner<br>
 -> Advanced kit system<br>
 -> Easy Setup<br>
--> Loby system
+-> Loby system<br>
+-> Easy Map Reset
 
 # 19 MAYIS ÖZEL
